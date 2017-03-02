@@ -1,0 +1,12 @@
+donor_id,donor_name,donor_age,donor_color,structure_id,structure_name,structure_abbreviation,structure_color,top_level_structure_id,top_level_structure_name,top_level_structure_abbreviation,top_level_structure_color
+12960,"H376.IIB.51","12 pcw","003BEB",10656,"cerebellum","CB","9EBAE1",10153,"neural plate","NP","D7D8D8"
+12834,"H376.IIIA.51","13 pcw","0076EB",10656,"cerebellum","CB","9EBAE1",10153,"neural plate","NP","D7D8D8"
+12888,"H376.IIIA.52","13 pcw","006CD6",10656,"cerebellum","CB","9EBAE1",10153,"neural plate","NP","D7D8D8"
+13060,"H376.IIB.52","12 pcw","0036D6",10657,"cerebellar cortex","CBC","89ADDB",10153,"neural plate","NP","D7D8D8"
+12837,"H376.IIIB.51","16 pcw","00B0EB",10657,"cerebellar cortex","CBC","89ADDB",10153,"neural plate","NP","D7D8D8"
+12880,"H376.IIIB.53","17 pcw","0091C2",10657,"cerebellar cortex","CBC","89ADDB",10153,"neural plate","NP","D7D8D8"
+12365,"H376.IV.51","21 pcw","00EBEB",10657,"cerebellar cortex","CBC","89ADDB",10153,"neural plate","NP","D7D8D8"
+12886,"H376.IV.54","21 pcw","00D6D6",10657,"cerebellar cortex","CBC","89ADDB",10153,"neural plate","NP","D7D8D8"
+12288,"H376.IV.50","24 pcw","00C2C2",10657,"cerebellar cortex","CBC","89ADDB",10153,"neural plate","NP","D7D8D8"
+12295,"H376.V.50","35 pcw","36D6A0",10657,"cerebellar cortex","CBC","89ADDB",10153,"neural plate","NP","D7D8D8"
+263195015,"H376.V.53","37 pcw","31C291",10657,"cerebellar cortex","CBC","89ADDB",10153,"neural plate","NP","D7D8D8"
